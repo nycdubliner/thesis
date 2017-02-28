@@ -1,0 +1,13 @@
+ipython_notes.txt
+
+:Author: tdeburca
+:Email: tiarnan.deburca@heanet.ie
+:Date: 2017-02-22 16:58
+
+Setup ipython alias:
+alias ipython='python -c "from IPython import embed; embed()"'
+
+To get access to plots invoke:
+%pylab
+
+[Probably worth templating a default notebook.]
